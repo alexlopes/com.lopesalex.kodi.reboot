@@ -1,6 +1,8 @@
 import xbmcaddon
 import xbmcgui
- 
+
+# new comment
+
 addon       = xbmcaddon.Addon()
 addonname   = addon.getAddonInfo('name')
  
